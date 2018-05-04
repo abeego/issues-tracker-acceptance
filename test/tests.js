@@ -1,0 +1,6 @@
+require('./specs/unauthorized_spec')
+require('./specs/registration_spec')
+require('./specs/token_spec')
+require('./specs/user_info_spec')
+require('./specs/create_new_project_spec')
+require('./specs/full_cycle_spec')
